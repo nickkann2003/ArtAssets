@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/IGME219/UnityProp/Library
+/IGME219/UnityProp/Logs
+/IGME219/UnityProp/Packages
+/IGME219/UnityProp/ProjectSettings
+/.vs/CMakeWorkspaceSettings.json
