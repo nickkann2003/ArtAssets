@@ -190,7 +190,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 6964462a2d3ebcb4bbe620f39780d6a9, type: 2}
+      objectReference: {fileID: 2100000, guid: 46bdfebdb96494341b7e65b653dbf488, type: 2}
     - target: {fileID: 919132149155446097, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Name
       value: Rug (3)
@@ -268,7 +268,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 6964462a2d3ebcb4bbe620f39780d6a9, type: 2}
+      objectReference: {fileID: 2100000, guid: 46bdfebdb96494341b7e65b653dbf488, type: 2}
     - target: {fileID: 919132149155446097, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Name
       value: Rug (3)
@@ -346,7 +346,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 6964462a2d3ebcb4bbe620f39780d6a9, type: 2}
+      objectReference: {fileID: 2100000, guid: 46bdfebdb96494341b7e65b653dbf488, type: 2}
     - target: {fileID: 919132149155446097, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Name
       value: Rug (2)
@@ -424,7 +424,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 6964462a2d3ebcb4bbe620f39780d6a9, type: 2}
+      objectReference: {fileID: 2100000, guid: 46bdfebdb96494341b7e65b653dbf488, type: 2}
     - target: {fileID: 919132149155446097, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Name
       value: Rug (1)
@@ -502,7 +502,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 6964462a2d3ebcb4bbe620f39780d6a9, type: 2}
+      objectReference: {fileID: 2100000, guid: 46bdfebdb96494341b7e65b653dbf488, type: 2}
     - target: {fileID: 919132149155446097, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Name
       value: Rug (4)
@@ -513,6 +513,68 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: f53765186391d824faca9f08911d71f0, type: 3}
   m_PrefabInstance: {fileID: 2394747116365530662}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2541208716456248891
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2143878454727748130}
+    m_Modifications:
+    - target: {fileID: 8575806374140448142, guid: a10bb2207ab5bf94fb68a49b2a25603f, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575806374140448142, guid: a10bb2207ab5bf94fb68a49b2a25603f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.4610706
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575806374140448142, guid: a10bb2207ab5bf94fb68a49b2a25603f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.20572555
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575806374140448142, guid: a10bb2207ab5bf94fb68a49b2a25603f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.016557677
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575806374140448142, guid: a10bb2207ab5bf94fb68a49b2a25603f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.0028209712
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575806374140448142, guid: a10bb2207ab5bf94fb68a49b2a25603f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071012
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575806374140448142, guid: a10bb2207ab5bf94fb68a49b2a25603f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071012
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575806374140448142, guid: a10bb2207ab5bf94fb68a49b2a25603f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.0028209712
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575806374140448142, guid: a10bb2207ab5bf94fb68a49b2a25603f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575806374140448142, guid: a10bb2207ab5bf94fb68a49b2a25603f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575806374140448142, guid: a10bb2207ab5bf94fb68a49b2a25603f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8955604505909286708, guid: a10bb2207ab5bf94fb68a49b2a25603f, type: 3}
+      propertyPath: m_Name
+      value: Rug (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a10bb2207ab5bf94fb68a49b2a25603f, type: 3}
+--- !u!4 &6072908010469739445 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8575806374140448142, guid: a10bb2207ab5bf94fb68a49b2a25603f, type: 3}
+  m_PrefabInstance: {fileID: 2541208716456248891}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &3005184642456659276
 PrefabInstance:
@@ -580,7 +642,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: c95cd37d49ea7f1409b5d99485f69175, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: c4b4c5a468619054fa192a2911373a55, type: 2}
+      objectReference: {fileID: 2100000, guid: 46bdfebdb96494341b7e65b653dbf488, type: 2}
     - target: {fileID: 919132149155446097, guid: c95cd37d49ea7f1409b5d99485f69175, type: 3}
       propertyPath: m_Name
       value: Shelves
@@ -658,7 +720,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 6964462a2d3ebcb4bbe620f39780d6a9, type: 2}
+      objectReference: {fileID: 2100000, guid: 46bdfebdb96494341b7e65b653dbf488, type: 2}
     - target: {fileID: 919132149155446097, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Name
       value: Rug (4)
@@ -736,7 +798,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 6964462a2d3ebcb4bbe620f39780d6a9, type: 2}
+      objectReference: {fileID: 2100000, guid: 46bdfebdb96494341b7e65b653dbf488, type: 2}
     - target: {fileID: 919132149155446097, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Name
       value: Rug (2)
@@ -814,7 +876,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 6964462a2d3ebcb4bbe620f39780d6a9, type: 2}
+      objectReference: {fileID: 2100000, guid: 46bdfebdb96494341b7e65b653dbf488, type: 2}
     - target: {fileID: 919132149155446097, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Name
       value: Rug
@@ -892,7 +954,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 6964462a2d3ebcb4bbe620f39780d6a9, type: 2}
+      objectReference: {fileID: 2100000, guid: 46bdfebdb96494341b7e65b653dbf488, type: 2}
     - target: {fileID: 919132149155446097, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Name
       value: Rug (6)
@@ -970,7 +1032,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 6964462a2d3ebcb4bbe620f39780d6a9, type: 2}
+      objectReference: {fileID: 2100000, guid: 46bdfebdb96494341b7e65b653dbf488, type: 2}
     - target: {fileID: 919132149155446097, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Name
       value: Rug (5)
@@ -981,84 +1043,6 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: f53765186391d824faca9f08911d71f0, type: 3}
   m_PrefabInstance: {fileID: 5374767052080755112}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &6038751873506290782
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 2143878454727748130}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: f53765186391d824faca9f08911d71f0, type: 3}
-      propertyPath: m_RootOrder
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: f53765186391d824faca9f08911d71f0, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 7.8129745
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: f53765186391d824faca9f08911d71f0, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 8.981185
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: f53765186391d824faca9f08911d71f0, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 7.813544
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: f53765186391d824faca9f08911d71f0, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.4610706
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: f53765186391d824faca9f08911d71f0, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.20572555
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: f53765186391d824faca9f08911d71f0, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.016557677
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: f53765186391d824faca9f08911d71f0, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.0028209712
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: f53765186391d824faca9f08911d71f0, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.7071012
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: f53765186391d824faca9f08911d71f0, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.7071012
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: f53765186391d824faca9f08911d71f0, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0.0028209712
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: f53765186391d824faca9f08911d71f0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: f53765186391d824faca9f08911d71f0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: f53765186391d824faca9f08911d71f0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: -7511558181221131132, guid: f53765186391d824faca9f08911d71f0, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 6964462a2d3ebcb4bbe620f39780d6a9, type: 2}
-    - target: {fileID: 919132149155446097, guid: f53765186391d824faca9f08911d71f0, type: 3}
-      propertyPath: m_Name
-      value: Rug (6)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: f53765186391d824faca9f08911d71f0, type: 3}
---- !u!4 &6072908010469739445 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: f53765186391d824faca9f08911d71f0, type: 3}
-  m_PrefabInstance: {fileID: 6038751873506290782}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &7460403489445244814
 PrefabInstance:
@@ -1126,7 +1110,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 6964462a2d3ebcb4bbe620f39780d6a9, type: 2}
+      objectReference: {fileID: 2100000, guid: 46bdfebdb96494341b7e65b653dbf488, type: 2}
     - target: {fileID: 919132149155446097, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Name
       value: Rug (5)
@@ -1204,7 +1188,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 6964462a2d3ebcb4bbe620f39780d6a9, type: 2}
+      objectReference: {fileID: 2100000, guid: 46bdfebdb96494341b7e65b653dbf488, type: 2}
     - target: {fileID: 919132149155446097, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Name
       value: Rug
@@ -1282,7 +1266,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 6964462a2d3ebcb4bbe620f39780d6a9, type: 2}
+      objectReference: {fileID: 2100000, guid: 46bdfebdb96494341b7e65b653dbf488, type: 2}
     - target: {fileID: 919132149155446097, guid: f53765186391d824faca9f08911d71f0, type: 3}
       propertyPath: m_Name
       value: Rug (1)
