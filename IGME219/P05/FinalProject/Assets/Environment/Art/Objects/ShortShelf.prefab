@@ -335,7 +335,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: c0e1a6889d272df4081b153fb272fe01, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 46bdfebdb96494341b7e65b653dbf488, type: 2}
+      objectReference: {fileID: 2100000, guid: c36f4b79cfce32a4ab61c305ac879fd2, type: 2}
     - target: {fileID: 919132149155446097, guid: c0e1a6889d272df4081b153fb272fe01, type: 3}
       propertyPath: m_Name
       value: ShortShelves
