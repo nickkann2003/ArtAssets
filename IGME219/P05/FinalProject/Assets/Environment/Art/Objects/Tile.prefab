@@ -23,15 +23,15 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8340337773072834096}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.6939864, y: 0.29992217, z: 2.6511986}
+  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
+  m_LocalPosition: {x: 3.694047, y: 0.29960704, z: 2.6511986}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1953578116861758183}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
 --- !u!1001 &2059897166418734348
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -98,7 +98,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 7d5da68b0176c434f9ce3724485327ca, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 9fdfa655b81575340957d5241cbe554c, type: 2}
+      objectReference: {fileID: 2100000, guid: 367b00358de0a324e954a084d3d894dd, type: 2}
     - target: {fileID: 919132149155446097, guid: 7d5da68b0176c434f9ce3724485327ca, type: 3}
       propertyPath: m_Name
       value: RugTile
